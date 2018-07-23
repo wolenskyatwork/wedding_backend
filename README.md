@@ -7,3 +7,8 @@
 * You should see something like "waiting for server to start.... done, server started"
 * You can use `sudo -u postgres psql` to start the postgres console as the `postgres` user
 * From within the directory for the rails app, run `rake db:create`
+* To create the prod DB from the prod machine, run `RAILS_ENV=production rake db:create`
+
+## Restarting Services
+* Restart Unicorn after changes to Rails app `sudo service unicorn_wedding_server restart`
+* Shouldn't have to do this, but can restart nginx (reverse proxy) via `sudo service nginx restart`
