@@ -98,3 +98,55 @@ I, [2018-07-23T04:14:41.217554 #907]  INFO -- : worker=0 ready
 I, [2018-07-23T04:14:41.219657 #903]  INFO -- : master process ready
 I, [2018-07-23T04:14:41.220436 #910]  INFO -- : worker=1 spawned pid=910
 I, [2018-07-23T04:14:41.223068 #910]  INFO -- : worker=1 ready
+I, [2018-08-14T02:55:38.802038 #903]  INFO -- : reaped #<Process::Status: pid 907 exit 0> worker=0
+I, [2018-08-14T02:55:38.805220 #903]  INFO -- : reaped #<Process::Status: pid 910 exit 0> worker=1
+I, [2018-08-14T02:55:38.809808 #903]  INFO -- : master complete
+I, [2018-08-14T02:55:57.754431 #1104]  INFO -- : Refreshing Gem list
+I, [2018-08-14T02:56:02.678578 #1104]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-08-14T02:56:02.679375 #1104]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-08-14T02:56:02.679530 #1104]  INFO -- : worker=0 spawning...
+I, [2018-08-14T02:56:02.688539 #1104]  INFO -- : worker=1 spawning...
+I, [2018-08-14T02:56:02.691639 #1109]  INFO -- : worker=0 spawned pid=1109
+I, [2018-08-14T02:56:02.691922 #1109]  INFO -- : worker=0 ready
+I, [2018-08-14T02:56:02.696474 #1104]  INFO -- : master process ready
+I, [2018-08-14T02:56:02.702693 #1112]  INFO -- : worker=1 spawned pid=1112
+I, [2018-08-14T02:56:02.702969 #1112]  INFO -- : worker=1 ready
+I, [2018-08-14T02:56:29.901442 #1104]  INFO -- : reaped #<Process::Status: pid 1112 exit 0> worker=1
+I, [2018-08-14T02:56:30.005896 #1104]  INFO -- : reaped #<Process::Status: pid 1109 exit 0> worker=0
+I, [2018-08-14T02:56:30.006096 #1104]  INFO -- : master complete
+I, [2018-08-14T02:57:42.033912 #1280]  INFO -- : Refreshing Gem list
+I, [2018-08-14T02:57:47.567376 #1280]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-08-14T02:57:47.568116 #1280]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-08-14T02:57:47.568271 #1280]  INFO -- : worker=0 spawning...
+I, [2018-08-14T02:57:47.578872 #1280]  INFO -- : worker=1 spawning...
+I, [2018-08-14T02:57:47.580911 #1284]  INFO -- : worker=0 spawned pid=1284
+I, [2018-08-14T02:57:47.583126 #1284]  INFO -- : worker=0 ready
+I, [2018-08-14T02:57:47.590728 #1280]  INFO -- : master process ready
+I, [2018-08-14T02:57:47.593209 #1287]  INFO -- : worker=1 spawned pid=1287
+I, [2018-08-14T02:57:47.600267 #1287]  INFO -- : worker=1 ready
+I, [2018-08-19T00:17:35.088189 #1280]  INFO -- : reaped #<Process::Status: pid 1284 exit 0> worker=0
+I, [2018-08-19T00:17:35.092887 #1280]  INFO -- : reaped #<Process::Status: pid 1287 exit 0> worker=1
+I, [2018-08-19T00:17:35.093052 #1280]  INFO -- : master complete
+I, [2018-08-19T00:18:19.235902 #27446]  INFO -- : Refreshing Gem list
+I, [2018-08-19T00:18:24.604321 #27446]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-08-19T00:18:24.607200 #27446]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-08-19T00:18:24.610163 #27446]  INFO -- : worker=0 spawning...
+I, [2018-08-19T00:18:24.624804 #27446]  INFO -- : worker=1 spawning...
+I, [2018-08-19T00:18:24.628933 #27450]  INFO -- : worker=0 spawned pid=27450
+I, [2018-08-19T00:18:24.635640 #27450]  INFO -- : worker=0 ready
+I, [2018-08-19T00:18:24.650125 #27446]  INFO -- : master process ready
+I, [2018-08-19T00:18:24.662255 #27453]  INFO -- : worker=1 spawned pid=27453
+I, [2018-08-19T00:18:24.662542 #27453]  INFO -- : worker=1 ready
+I, [2018-08-19T00:22:17.277710 #27446]  INFO -- : reaped #<Process::Status: pid 27450 exit 0> worker=0
+I, [2018-08-19T00:22:17.280029 #27446]  INFO -- : reaped #<Process::Status: pid 27453 exit 0> worker=1
+I, [2018-08-19T00:22:17.281872 #27446]  INFO -- : master complete
+I, [2018-08-19T00:22:31.825159 #27596]  INFO -- : Refreshing Gem list
+I, [2018-08-19T00:22:36.769706 #27596]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-08-19T00:22:36.777253 #27596]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-08-19T00:22:36.779180 #27596]  INFO -- : worker=0 spawning...
+I, [2018-08-19T00:22:36.787460 #27596]  INFO -- : worker=1 spawning...
+I, [2018-08-19T00:22:36.788496 #27604]  INFO -- : worker=0 spawned pid=27604
+I, [2018-08-19T00:22:36.795572 #27604]  INFO -- : worker=0 ready
+I, [2018-08-19T00:22:36.799854 #27596]  INFO -- : master process ready
+I, [2018-08-19T00:22:36.800651 #27607]  INFO -- : worker=1 spawned pid=27607
+I, [2018-08-19T00:22:36.803222 #27607]  INFO -- : worker=1 ready
