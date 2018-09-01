@@ -1,4 +1,13 @@
-class RsvpController < ApplicationController
+class RsvpsController < ApplicationController
+    layout "rsvp"
+
+    before_action :authenticate_admin!, :only => [:index]
+
+    def index
+      @rsvps = Rsvp.all()
+      @signed_in = admin_signed_in?
+    end
+
     def create
       Rsvp.create(person_params)
     end

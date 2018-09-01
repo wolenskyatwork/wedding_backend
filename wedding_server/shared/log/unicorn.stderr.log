@@ -150,3 +150,654 @@ I, [2018-08-19T00:22:36.795572 #27604]  INFO -- : worker=0 ready
 I, [2018-08-19T00:22:36.799854 #27596]  INFO -- : master process ready
 I, [2018-08-19T00:22:36.800651 #27607]  INFO -- : worker=1 spawned pid=27607
 I, [2018-08-19T00:22:36.803222 #27607]  INFO -- : worker=1 ready
+I, [2018-09-01T01:02:35.534666 #2372]  INFO -- : Refreshing Gem list
+I, [2018-09-01T01:02:43.889309 #2372]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T01:02:43.889688 #2372]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T01:02:43.889949 #2372]  INFO -- : worker=0 spawning...
+I, [2018-09-01T01:02:43.923011 #2372]  INFO -- : worker=1 spawning...
+I, [2018-09-01T01:02:43.924336 #2376]  INFO -- : worker=0 spawned pid=2376
+I, [2018-09-01T01:02:43.924806 #2376]  INFO -- : worker=0 ready
+I, [2018-09-01T01:02:43.937191 #2372]  INFO -- : master process ready
+I, [2018-09-01T01:02:43.942539 #2379]  INFO -- : worker=1 spawned pid=2379
+I, [2018-09-01T01:02:43.947292 #2379]  INFO -- : worker=1 ready
+I, [2018-09-01T03:02:40.171567 #2372]  INFO -- : reaped #<Process::Status: pid 2379 exit 0> worker=1
+I, [2018-09-01T03:02:40.274573 #2372]  INFO -- : reaped #<Process::Status: pid 2376 exit 0> worker=0
+I, [2018-09-01T03:02:40.274788 #2372]  INFO -- : master complete
+I, [2018-09-01T03:02:51.342996 #4415]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:03:00.307146 #4415]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:03:00.314751 #4415]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:03:00.314959 #4415]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:03:00.341839 #4415]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:03:00.354051 #4419]  INFO -- : worker=0 spawned pid=4419
+I, [2018-09-01T03:03:00.354402 #4419]  INFO -- : worker=0 ready
+I, [2018-09-01T03:03:00.373366 #4415]  INFO -- : master process ready
+I, [2018-09-01T03:03:00.375059 #4422]  INFO -- : worker=1 spawned pid=4422
+I, [2018-09-01T03:03:00.381295 #4422]  INFO -- : worker=1 ready
+I, [2018-09-01T03:19:08.250803 #4415]  INFO -- : reaped #<Process::Status: pid 4419 exit 0> worker=0
+I, [2018-09-01T03:19:08.251828 #4415]  INFO -- : reaped #<Process::Status: pid 4422 exit 0> worker=1
+I, [2018-09-01T03:19:08.251946 #4415]  INFO -- : master complete
+I, [2018-09-01T03:19:23.557685 #4682]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:19:31.706524 #4682]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:19:31.716223 #4682]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:19:31.716490 #4682]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:19:31.741166 #4682]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:19:31.742788 #4687]  INFO -- : worker=0 spawned pid=4687
+I, [2018-09-01T03:19:31.751391 #4687]  INFO -- : worker=0 ready
+I, [2018-09-01T03:19:31.765330 #4682]  INFO -- : master process ready
+I, [2018-09-01T03:19:31.799764 #4690]  INFO -- : worker=1 spawned pid=4690
+I, [2018-09-01T03:19:31.800123 #4690]  INFO -- : worker=1 ready
+I, [2018-09-01T03:20:53.581679 #4682]  INFO -- : reaped #<Process::Status: pid 4687 exit 0> worker=0
+I, [2018-09-01T03:20:53.582480 #4682]  INFO -- : reaped #<Process::Status: pid 4690 exit 0> worker=1
+I, [2018-09-01T03:20:53.582899 #4682]  INFO -- : master complete
+I, [2018-09-01T03:21:03.203070 #4826]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:21:10.743595 #4826]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:21:10.750872 #4826]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:21:10.751068 #4826]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:21:10.772914 #4826]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:21:10.785559 #4826]  INFO -- : master process ready
+I, [2018-09-01T03:21:10.794810 #4834]  INFO -- : worker=1 spawned pid=4834
+I, [2018-09-01T03:21:10.795953 #4834]  INFO -- : worker=1 ready
+I, [2018-09-01T03:21:10.786511 #4831]  INFO -- : worker=0 spawned pid=4831
+I, [2018-09-01T03:21:10.796499 #4831]  INFO -- : worker=0 ready
+I, [2018-09-01T03:22:57.656020 #4826]  INFO -- : reaped #<Process::Status: pid 4831 exit 0> worker=0
+I, [2018-09-01T03:22:57.656323 #4826]  INFO -- : reaped #<Process::Status: pid 4834 exit 0> worker=1
+I, [2018-09-01T03:22:57.656478 #4826]  INFO -- : master complete
+I, [2018-09-01T03:23:15.329416 #5007]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:23:24.511657 #5007]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:23:24.521082 #5007]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:23:24.521306 #5007]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:23:24.541010 #5007]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:23:24.544845 #5011]  INFO -- : worker=0 spawned pid=5011
+I, [2018-09-01T03:23:24.545161 #5011]  INFO -- : worker=0 ready
+I, [2018-09-01T03:23:24.561873 #5007]  INFO -- : master process ready
+I, [2018-09-01T03:23:24.573233 #5014]  INFO -- : worker=1 spawned pid=5014
+I, [2018-09-01T03:23:24.573475 #5014]  INFO -- : worker=1 ready
+I, [2018-09-01T03:25:18.407431 #5007]  INFO -- : reaped #<Process::Status: pid 5011 exit 0> worker=0
+I, [2018-09-01T03:25:18.407619 #5007]  INFO -- : reaped #<Process::Status: pid 5014 exit 0> worker=1
+I, [2018-09-01T03:25:18.407715 #5007]  INFO -- : master complete
+I, [2018-09-01T03:25:29.999208 #5160]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:25:37.109321 #5160]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:25:37.111900 #5160]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:25:37.112466 #5160]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:25:37.141190 #5160]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:25:37.147186 #5164]  INFO -- : worker=0 spawned pid=5164
+I, [2018-09-01T03:25:37.147499 #5164]  INFO -- : worker=0 ready
+I, [2018-09-01T03:25:37.166091 #5160]  INFO -- : master process ready
+I, [2018-09-01T03:25:37.177142 #5167]  INFO -- : worker=1 spawned pid=5167
+I, [2018-09-01T03:25:37.177448 #5167]  INFO -- : worker=1 ready
+I, [2018-09-01T03:26:31.148400 #5160]  INFO -- : reaped #<Process::Status: pid 5164 exit 0> worker=0
+I, [2018-09-01T03:26:31.151464 #5160]  INFO -- : reaped #<Process::Status: pid 5167 exit 0> worker=1
+I, [2018-09-01T03:26:31.151617 #5160]  INFO -- : master complete
+I, [2018-09-01T03:26:44.068954 #5301]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:26:51.960136 #5301]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:26:51.965685 #5301]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:26:51.965886 #5301]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:26:51.978839 #5301]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:26:51.987662 #5306]  INFO -- : worker=0 spawned pid=5306
+I, [2018-09-01T03:26:51.988282 #5306]  INFO -- : worker=0 ready
+I, [2018-09-01T03:26:51.995627 #5301]  INFO -- : master process ready
+I, [2018-09-01T03:26:51.999462 #5309]  INFO -- : worker=1 spawned pid=5309
+I, [2018-09-01T03:26:52.000382 #5309]  INFO -- : worker=1 ready
+I, [2018-09-01T03:30:00.599133 #5301]  INFO -- : reaped #<Process::Status: pid 5309 exit 0> worker=1
+I, [2018-09-01T03:30:00.707508 #5301]  INFO -- : reaped #<Process::Status: pid 5306 exit 0> worker=0
+I, [2018-09-01T03:30:00.708081 #5301]  INFO -- : master complete
+I, [2018-09-01T03:30:11.829421 #5458]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:30:18.794564 #5458]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:30:18.794888 #5458]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:30:18.795051 #5458]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:30:18.830354 #5458]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:30:18.834894 #5462]  INFO -- : worker=0 spawned pid=5462
+I, [2018-09-01T03:30:18.835813 #5462]  INFO -- : worker=0 ready
+I, [2018-09-01T03:30:18.874945 #5458]  INFO -- : master process ready
+I, [2018-09-01T03:30:18.897298 #5465]  INFO -- : worker=1 spawned pid=5465
+I, [2018-09-01T03:30:18.897734 #5465]  INFO -- : worker=1 ready
+I, [2018-09-01T03:44:16.619209 #5458]  INFO -- : reaped #<Process::Status: pid 5462 exit 0> worker=0
+I, [2018-09-01T03:44:16.619779 #5458]  INFO -- : reaped #<Process::Status: pid 5465 exit 0> worker=1
+I, [2018-09-01T03:44:16.620519 #5458]  INFO -- : master complete
+I, [2018-09-01T03:44:32.308752 #5671]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:44:42.532573 #5671]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:44:42.542895 #5671]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:44:42.543436 #5671]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:44:42.581468 #5671]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:44:42.583858 #5675]  INFO -- : worker=0 spawned pid=5675
+I, [2018-09-01T03:44:42.584408 #5675]  INFO -- : worker=0 ready
+I, [2018-09-01T03:44:42.609612 #5671]  INFO -- : master process ready
+I, [2018-09-01T03:44:42.615742 #5678]  INFO -- : worker=1 spawned pid=5678
+I, [2018-09-01T03:44:42.616584 #5678]  INFO -- : worker=1 ready
+I, [2018-09-01T03:52:38.460073 #5671]  INFO -- : reaped #<Process::Status: pid 5675 exit 0> worker=0
+I, [2018-09-01T03:52:38.567094 #5671]  INFO -- : reaped #<Process::Status: pid 5678 exit 0> worker=1
+I, [2018-09-01T03:52:38.570647 #5671]  INFO -- : master complete
+I, [2018-09-01T03:52:53.348402 #5854]  INFO -- : Refreshing Gem list
+I, [2018-09-01T03:53:01.469446 #5854]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T03:53:01.472582 #5854]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T03:53:01.472963 #5854]  INFO -- : worker=0 spawning...
+I, [2018-09-01T03:53:01.496820 #5854]  INFO -- : worker=1 spawning...
+I, [2018-09-01T03:53:01.503992 #5858]  INFO -- : worker=0 spawned pid=5858
+I, [2018-09-01T03:53:01.507406 #5858]  INFO -- : worker=0 ready
+I, [2018-09-01T03:53:01.514245 #5854]  INFO -- : master process ready
+I, [2018-09-01T03:53:01.519827 #5861]  INFO -- : worker=1 spawned pid=5861
+I, [2018-09-01T03:53:01.520924 #5861]  INFO -- : worker=1 ready
+I, [2018-09-01T04:26:47.092701 #5854]  INFO -- : reaped #<Process::Status: pid 5858 exit 0> worker=0
+I, [2018-09-01T04:26:47.094968 #5854]  INFO -- : reaped #<Process::Status: pid 5861 exit 0> worker=1
+I, [2018-09-01T04:26:47.096544 #5854]  INFO -- : master complete
+I, [2018-09-01T04:27:02.154649 #6187]  INFO -- : Refreshing Gem list
+I, [2018-09-01T04:27:09.357826 #6187]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T04:27:09.358128 #6187]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T04:27:09.358613 #6187]  INFO -- : worker=0 spawning...
+I, [2018-09-01T04:27:09.376084 #6187]  INFO -- : worker=1 spawning...
+I, [2018-09-01T04:27:09.382035 #6193]  INFO -- : worker=0 spawned pid=6193
+I, [2018-09-01T04:27:09.382368 #6193]  INFO -- : worker=0 ready
+I, [2018-09-01T04:27:09.403614 #6187]  INFO -- : master process ready
+I, [2018-09-01T04:27:09.414195 #6196]  INFO -- : worker=1 spawned pid=6196
+I, [2018-09-01T04:27:09.414785 #6196]  INFO -- : worker=1 ready
+I, [2018-09-01T04:32:03.767060 #6187]  INFO -- : reaped #<Process::Status: pid 6196 exit 0> worker=1
+I, [2018-09-01T04:32:03.874416 #6187]  INFO -- : reaped #<Process::Status: pid 6193 exit 0> worker=0
+I, [2018-09-01T04:32:03.874661 #6187]  INFO -- : master complete
+I, [2018-09-01T04:32:18.014356 #6354]  INFO -- : Refreshing Gem list
+I, [2018-09-01T04:32:25.901588 #6354]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T04:32:25.905111 #6354]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T04:32:25.905278 #6354]  INFO -- : worker=0 spawning...
+I, [2018-09-01T04:32:25.918236 #6354]  INFO -- : worker=1 spawning...
+I, [2018-09-01T04:32:25.928230 #6358]  INFO -- : worker=0 spawned pid=6358
+I, [2018-09-01T04:32:25.929047 #6358]  INFO -- : worker=0 ready
+I, [2018-09-01T04:32:25.939603 #6354]  INFO -- : master process ready
+I, [2018-09-01T04:32:25.943017 #6361]  INFO -- : worker=1 spawned pid=6361
+I, [2018-09-01T04:32:25.946048 #6361]  INFO -- : worker=1 ready
+I, [2018-09-01T04:40:57.902973 #6354]  INFO -- : reaped #<Process::Status: pid 6361 exit 0> worker=1
+I, [2018-09-01T04:40:58.011734 #6354]  INFO -- : reaped #<Process::Status: pid 6358 exit 0> worker=0
+I, [2018-09-01T04:40:58.012319 #6354]  INFO -- : master complete
+I, [2018-09-01T04:41:16.102119 #6537]  INFO -- : Refreshing Gem list
+I, [2018-09-01T04:41:24.678760 #6537]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T04:41:24.680590 #6537]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T04:41:24.681687 #6537]  INFO -- : worker=0 spawning...
+I, [2018-09-01T04:41:24.702592 #6537]  INFO -- : worker=1 spawning...
+I, [2018-09-01T04:41:24.711907 #6541]  INFO -- : worker=0 spawned pid=6541
+I, [2018-09-01T04:41:24.712270 #6541]  INFO -- : worker=0 ready
+I, [2018-09-01T04:41:24.723675 #6537]  INFO -- : master process ready
+I, [2018-09-01T04:41:24.746564 #6544]  INFO -- : worker=1 spawned pid=6544
+I, [2018-09-01T04:41:24.747467 #6544]  INFO -- : worker=1 ready
+I, [2018-09-01T04:46:37.161757 #6537]  INFO -- : reaped #<Process::Status: pid 6541 exit 0> worker=0
+I, [2018-09-01T04:46:37.272020 #6537]  INFO -- : reaped #<Process::Status: pid 6544 exit 0> worker=1
+I, [2018-09-01T04:46:37.272546 #6537]  INFO -- : master complete
+I, [2018-09-01T04:47:29.266348 #6755]  INFO -- : Refreshing Gem list
+I, [2018-09-01T04:47:39.182767 #6755]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T04:47:39.186632 #6755]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T04:47:39.194398 #6755]  INFO -- : worker=0 spawning...
+I, [2018-09-01T04:47:39.208393 #6755]  INFO -- : worker=1 spawning...
+I, [2018-09-01T04:47:39.210514 #6759]  INFO -- : worker=0 spawned pid=6759
+I, [2018-09-01T04:47:39.217568 #6759]  INFO -- : worker=0 ready
+I, [2018-09-01T04:47:39.220554 #6755]  INFO -- : master process ready
+I, [2018-09-01T04:47:39.230594 #6762]  INFO -- : worker=1 spawned pid=6762
+I, [2018-09-01T04:47:39.231180 #6762]  INFO -- : worker=1 ready
+I, [2018-09-01T04:48:47.462037 #6755]  INFO -- : reaped #<Process::Status: pid 6759 exit 0> worker=0
+I, [2018-09-01T04:48:47.569541 #6755]  INFO -- : reaped #<Process::Status: pid 6762 exit 0> worker=1
+I, [2018-09-01T04:48:47.571058 #6755]  INFO -- : master complete
+I, [2018-09-01T04:49:23.562643 #6946]  INFO -- : Refreshing Gem list
+I, [2018-09-01T04:49:31.870456 #6946]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T04:49:31.880556 #6946]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T04:49:31.883369 #6946]  INFO -- : worker=0 spawning...
+I, [2018-09-01T04:49:31.907722 #6946]  INFO -- : worker=1 spawning...
+I, [2018-09-01T04:49:31.910598 #6951]  INFO -- : worker=0 spawned pid=6951
+I, [2018-09-01T04:49:31.911145 #6951]  INFO -- : worker=0 ready
+I, [2018-09-01T04:49:31.932795 #6946]  INFO -- : master process ready
+I, [2018-09-01T04:49:31.933996 #6954]  INFO -- : worker=1 spawned pid=6954
+I, [2018-09-01T04:49:31.934271 #6954]  INFO -- : worker=1 ready
+I, [2018-09-01T04:54:12.907620 #6946]  INFO -- : reaped #<Process::Status: pid 6951 exit 0> worker=0
+I, [2018-09-01T04:54:12.909436 #6946]  INFO -- : reaped #<Process::Status: pid 6954 exit 0> worker=1
+I, [2018-09-01T04:54:12.909545 #6946]  INFO -- : master complete
+I, [2018-09-01T05:08:10.927158 #7405]  INFO -- : Refreshing Gem list
+I, [2018-09-01T05:08:19.733772 #7405]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T05:08:19.741269 #7405]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T05:08:19.741855 #7405]  INFO -- : worker=0 spawning...
+I, [2018-09-01T05:08:19.765240 #7405]  INFO -- : worker=1 spawning...
+I, [2018-09-01T05:08:19.777538 #7409]  INFO -- : worker=0 spawned pid=7409
+I, [2018-09-01T05:08:19.778029 #7409]  INFO -- : worker=0 ready
+I, [2018-09-01T05:08:19.784012 #7405]  INFO -- : master process ready
+I, [2018-09-01T05:08:19.790339 #7412]  INFO -- : worker=1 spawned pid=7412
+I, [2018-09-01T05:08:19.790752 #7412]  INFO -- : worker=1 ready
+I, [2018-09-01T05:09:58.230320 #7405]  INFO -- : reaped #<Process::Status: pid 7409 exit 0> worker=0
+I, [2018-09-01T05:09:58.232435 #7405]  INFO -- : reaped #<Process::Status: pid 7412 exit 0> worker=1
+I, [2018-09-01T05:09:58.232952 #7405]  INFO -- : master complete
+I, [2018-09-01T05:10:08.070208 #7554]  INFO -- : Refreshing Gem list
+I, [2018-09-01T05:10:16.368512 #7554]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T05:10:16.373945 #7554]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T05:10:16.374139 #7554]  INFO -- : worker=0 spawning...
+I, [2018-09-01T05:10:16.396554 #7554]  INFO -- : worker=1 spawning...
+I, [2018-09-01T05:10:16.398362 #7560]  INFO -- : worker=0 spawned pid=7560
+I, [2018-09-01T05:10:16.398652 #7560]  INFO -- : worker=0 ready
+I, [2018-09-01T05:10:16.409785 #7554]  INFO -- : master process ready
+I, [2018-09-01T05:10:16.419422 #7563]  INFO -- : worker=1 spawned pid=7563
+I, [2018-09-01T05:10:16.419751 #7563]  INFO -- : worker=1 ready
+I, [2018-09-01T16:37:40.331151 #7554]  INFO -- : reaped #<Process::Status: pid 7560 exit 0> worker=0
+I, [2018-09-01T16:37:40.331436 #7554]  INFO -- : reaped #<Process::Status: pid 7563 exit 0> worker=1
+I, [2018-09-01T16:37:40.331900 #7554]  INFO -- : master complete
+I, [2018-09-01T16:39:10.254070 #13100]  INFO -- : Refreshing Gem list
+I, [2018-09-01T16:39:20.675323 #13100]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T16:39:20.686095 #13100]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T16:39:20.686379 #13100]  INFO -- : worker=0 spawning...
+I, [2018-09-01T16:39:20.718200 #13100]  INFO -- : worker=1 spawning...
+I, [2018-09-01T16:39:20.728683 #13106]  INFO -- : worker=0 spawned pid=13106
+I, [2018-09-01T16:39:20.729374 #13106]  INFO -- : worker=0 ready
+I, [2018-09-01T16:39:20.742739 #13100]  INFO -- : master process ready
+I, [2018-09-01T16:39:20.754166 #13109]  INFO -- : worker=1 spawned pid=13109
+I, [2018-09-01T16:39:20.763260 #13109]  INFO -- : worker=1 ready
+I, [2018-09-01T16:40:44.127693 #13100]  INFO -- : reaped #<Process::Status: pid 13109 exit 0> worker=1
+I, [2018-09-01T16:40:44.276305 #13100]  INFO -- : reaped #<Process::Status: pid 13106 exit 0> worker=0
+I, [2018-09-01T16:40:44.276554 #13100]  INFO -- : master complete
+I, [2018-09-01T16:40:54.678426 #13257]  INFO -- : Refreshing Gem list
+I, [2018-09-01T16:41:02.759811 #13257]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T16:41:02.761105 #13257]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T16:41:02.763942 #13257]  INFO -- : worker=0 spawning...
+I, [2018-09-01T16:41:02.782175 #13257]  INFO -- : worker=1 spawning...
+I, [2018-09-01T16:41:02.786162 #13262]  INFO -- : worker=0 spawned pid=13262
+I, [2018-09-01T16:41:02.788485 #13262]  INFO -- : worker=0 ready
+I, [2018-09-01T16:41:02.798040 #13257]  INFO -- : master process ready
+I, [2018-09-01T16:41:02.803255 #13265]  INFO -- : worker=1 spawned pid=13265
+I, [2018-09-01T16:41:02.803820 #13265]  INFO -- : worker=1 ready
+I, [2018-09-01T16:59:11.970913 #13257]  INFO -- : reaped #<Process::Status: pid 13265 exit 0> worker=1
+I, [2018-09-01T16:59:12.074329 #13257]  INFO -- : reaped #<Process::Status: pid 13262 exit 0> worker=0
+I, [2018-09-01T16:59:12.075097 #13257]  INFO -- : master complete
+I, [2018-09-01T16:59:23.020306 #13532]  INFO -- : Refreshing Gem list
+SyntaxError: /home/ewolensky/code/wedding_backend/wedding_server/app/controllers/rsvps_controller.rb:4: syntax error, unexpected ':', expecting keyword_end
+...e_action :authenticate_admin! :only => [:index]
+...                              ^
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `block in require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/loaded_features_index.rb:65:in `register'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:20:in `require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:29:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `block in require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:249:in `load_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:370:in `block in require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:13:in `loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:348:in `require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:326:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:242:in `require_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `block in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:356:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `instance_exec'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `run'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:61:in `block in run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `call'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:60:in `run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application.rb:361:in `initialize!'
+  /home/ewolensky/code/wedding_backend/wedding_server/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require_relative'
+  config.ru:4:in `block in <main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `load'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `<top (required)>'
+I, [2018-09-01T16:59:56.070465 #13657]  INFO -- : Refreshing Gem list
+SyntaxError: /home/ewolensky/code/wedding_backend/wedding_server/app/controllers/rsvps_controller.rb:4: syntax error, unexpected ':', expecting keyword_end
+...e_action :authenticate_admin! :only => [:index]
+...                              ^
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `block in require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/loaded_features_index.rb:65:in `register'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:20:in `require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:29:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `block in require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:249:in `load_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:370:in `block in require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:13:in `loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:348:in `require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:326:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:242:in `require_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `block in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:356:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `instance_exec'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `run'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:61:in `block in run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `call'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:60:in `run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application.rb:361:in `initialize!'
+  /home/ewolensky/code/wedding_backend/wedding_server/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require_relative'
+  config.ru:4:in `block in <main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `load'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `<top (required)>'
+I, [2018-09-01T17:00:36.681796 #13724]  INFO -- : Refreshing Gem list
+SyntaxError: /home/ewolensky/code/wedding_backend/wedding_server/app/controllers/rsvps_controller.rb:4: syntax error, unexpected ':', expecting keyword_end
+...e_action :authenticate_admin! :only => [:index]
+...                              ^
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `block in require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/loaded_features_index.rb:65:in `register'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:20:in `require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:29:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `block in require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:249:in `load_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:370:in `block in require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:13:in `loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:348:in `require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:326:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:242:in `require_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `block in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:356:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `instance_exec'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `run'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:61:in `block in run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `call'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:60:in `run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application.rb:361:in `initialize!'
+  /home/ewolensky/code/wedding_backend/wedding_server/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require_relative'
+  config.ru:4:in `block in <main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `load'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `<top (required)>'
+I, [2018-09-01T17:03:27.744960 #13872]  INFO -- : Refreshing Gem list
+SyntaxError: /home/ewolensky/code/wedding_backend/wedding_server/app/controllers/rsvps_controller.rb:4: syntax error, unexpected ':', expecting keyword_end
+...e_action :authenticate_admin! :only => [:index]
+...                              ^
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `block in require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/loaded_features_index.rb:65:in `register'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:20:in `require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:29:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `block in require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:249:in `load_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:370:in `block in require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:13:in `loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:348:in `require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:326:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:242:in `require_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `block in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:356:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `instance_exec'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `run'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:61:in `block in run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `call'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:60:in `run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application.rb:361:in `initialize!'
+  /home/ewolensky/code/wedding_backend/wedding_server/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require_relative'
+  config.ru:4:in `block in <main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `load'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `<top (required)>'
+I, [2018-09-01T17:06:31.082496 #13989]  INFO -- : Refreshing Gem list
+SyntaxError: /home/ewolensky/code/wedding_backend/wedding_server/app/controllers/rsvps_controller.rb:4: syntax error, unexpected ':', expecting keyword_end
+...e_action :authenticate_admin! :only => [:index]
+...                              ^
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:21:in `block in require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/loaded_features_index.rb:65:in `register'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:20:in `require_with_bootsnap_lfi'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:29:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `block in require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:249:in `load_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:283:in `require'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:370:in `block in require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies/interlock.rb:13:in `loading'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:37:in `load_interlock'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:348:in `require_or_load'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:326:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `depend_on'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib/active_support/dependencies.rb:242:in `require_dependency'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:477:in `block in eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:475:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/engine.rb:356:in `eager_load!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `instance_exec'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:32:in `run'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:61:in `block in run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `call'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/initializable.rb:60:in `run_initializers'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/application.rb:361:in `initialize!'
+  /home/ewolensky/code/wedding_backend/wedding_server/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require_relative'
+  config.ru:4:in `block in <main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ewolensky/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `load'
+  /home/ewolensky/.rbenv/versions/2.5.1/bin/unicorn:23:in `<top (required)>'
+I, [2018-09-01T17:08:34.594777 #14089]  INFO -- : Refreshing Gem list
+I, [2018-09-01T17:08:43.722915 #14089]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T17:08:43.737208 #14089]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T17:08:43.738289 #14089]  INFO -- : worker=0 spawning...
+I, [2018-09-01T17:08:43.770130 #14089]  INFO -- : worker=1 spawning...
+I, [2018-09-01T17:08:43.782133 #14095]  INFO -- : worker=0 spawned pid=14095
+I, [2018-09-01T17:08:43.782446 #14095]  INFO -- : worker=0 ready
+I, [2018-09-01T17:08:43.798475 #14089]  INFO -- : master process ready
+I, [2018-09-01T17:08:43.807515 #14098]  INFO -- : worker=1 spawned pid=14098
+I, [2018-09-01T17:08:43.807826 #14098]  INFO -- : worker=1 ready
+I, [2018-09-01T17:39:46.273652 #14089]  INFO -- : reaped #<Process::Status: pid 14098 exit 0> worker=1
+I, [2018-09-01T17:39:46.381648 #14089]  INFO -- : reaped #<Process::Status: pid 14095 exit 0> worker=0
+I, [2018-09-01T17:39:46.390827 #14089]  INFO -- : master complete
+I, [2018-09-01T17:39:55.003402 #14441]  INFO -- : Refreshing Gem list
+I, [2018-09-01T17:40:02.256131 #14441]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T17:40:02.256400 #14441]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T17:40:02.256947 #14441]  INFO -- : worker=0 spawning...
+I, [2018-09-01T17:40:02.268137 #14441]  INFO -- : worker=1 spawning...
+I, [2018-09-01T17:40:02.269140 #14445]  INFO -- : worker=0 spawned pid=14445
+I, [2018-09-01T17:40:02.269438 #14445]  INFO -- : worker=0 ready
+I, [2018-09-01T17:40:02.280637 #14441]  INFO -- : master process ready
+I, [2018-09-01T17:40:02.291435 #14448]  INFO -- : worker=1 spawned pid=14448
+I, [2018-09-01T17:40:02.291826 #14448]  INFO -- : worker=1 ready
+I, [2018-09-01T17:57:25.410953 #14441]  INFO -- : reaped #<Process::Status: pid 14448 exit 0> worker=1
+I, [2018-09-01T17:57:25.530380 #14441]  INFO -- : reaped #<Process::Status: pid 14445 exit 0> worker=0
+I, [2018-09-01T17:57:25.538767 #14441]  INFO -- : master complete
+I, [2018-09-01T17:57:35.973194 #14871]  INFO -- : Refreshing Gem list
+I, [2018-09-01T17:57:46.622063 #14871]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T17:57:46.628333 #14871]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T17:57:46.629667 #14871]  INFO -- : worker=0 spawning...
+I, [2018-09-01T17:57:46.653449 #14871]  INFO -- : worker=1 spawning...
+I, [2018-09-01T17:57:46.654384 #14879]  INFO -- : worker=0 spawned pid=14879
+I, [2018-09-01T17:57:46.654638 #14879]  INFO -- : worker=0 ready
+I, [2018-09-01T17:57:46.674987 #14871]  INFO -- : master process ready
+I, [2018-09-01T17:57:46.676761 #14882]  INFO -- : worker=1 spawned pid=14882
+I, [2018-09-01T17:57:46.677003 #14882]  INFO -- : worker=1 ready
+I, [2018-09-01T21:46:04.946750 #14871]  INFO -- : reaped #<Process::Status: pid 14882 exit 0> worker=1
+I, [2018-09-01T21:46:05.155823 #14871]  INFO -- : reaped #<Process::Status: pid 14879 exit 0> worker=0
+I, [2018-09-01T21:46:05.158448 #14871]  INFO -- : master complete
+I, [2018-09-01T21:46:13.547387 #16902]  INFO -- : Refreshing Gem list
+I, [2018-09-01T21:46:23.146768 #16902]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T21:46:23.147092 #16902]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T21:46:23.147657 #16902]  INFO -- : worker=0 spawning...
+I, [2018-09-01T21:46:23.171129 #16902]  INFO -- : worker=1 spawning...
+I, [2018-09-01T21:46:23.180306 #16906]  INFO -- : worker=0 spawned pid=16906
+I, [2018-09-01T21:46:23.180723 #16906]  INFO -- : worker=0 ready
+I, [2018-09-01T21:46:23.183357 #16902]  INFO -- : master process ready
+I, [2018-09-01T21:46:23.191868 #16909]  INFO -- : worker=1 spawned pid=16909
+I, [2018-09-01T21:46:23.192445 #16909]  INFO -- : worker=1 ready
+I, [2018-09-01T21:50:41.851713 #16902]  INFO -- : reaped #<Process::Status: pid 16906 exit 0> worker=0
+I, [2018-09-01T21:50:41.855830 #16902]  INFO -- : reaped #<Process::Status: pid 16909 exit 0> worker=1
+I, [2018-09-01T21:50:41.858997 #16902]  INFO -- : master complete
+I, [2018-09-01T21:50:50.874603 #17122]  INFO -- : Refreshing Gem list
+I, [2018-09-01T21:50:59.586965 #17122]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T21:50:59.596545 #17122]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T21:50:59.598391 #17122]  INFO -- : worker=0 spawning...
+I, [2018-09-01T21:50:59.612072 #17122]  INFO -- : worker=1 spawning...
+I, [2018-09-01T21:50:59.620216 #17127]  INFO -- : worker=0 spawned pid=17127
+I, [2018-09-01T21:50:59.622682 #17127]  INFO -- : worker=0 ready
+I, [2018-09-01T21:50:59.628164 #17122]  INFO -- : master process ready
+I, [2018-09-01T21:50:59.631338 #17130]  INFO -- : worker=1 spawned pid=17130
+I, [2018-09-01T21:50:59.631604 #17130]  INFO -- : worker=1 ready
+I, [2018-09-01T21:58:51.408303 #17122]  INFO -- : reaped #<Process::Status: pid 17127 exit 0> worker=0
+I, [2018-09-01T21:58:51.408555 #17122]  INFO -- : reaped #<Process::Status: pid 17130 exit 0> worker=1
+I, [2018-09-01T21:58:51.408730 #17122]  INFO -- : master complete
+I, [2018-09-01T21:58:59.801295 #17552]  INFO -- : Refreshing Gem list
+I, [2018-09-01T21:59:07.323482 #17552]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T21:59:07.326376 #17552]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T21:59:07.327495 #17552]  INFO -- : worker=0 spawning...
+I, [2018-09-01T21:59:07.360066 #17552]  INFO -- : worker=1 spawning...
+I, [2018-09-01T21:59:07.371084 #17556]  INFO -- : worker=0 spawned pid=17556
+I, [2018-09-01T21:59:07.372016 #17556]  INFO -- : worker=0 ready
+I, [2018-09-01T21:59:07.386645 #17552]  INFO -- : master process ready
+I, [2018-09-01T21:59:07.394473 #17559]  INFO -- : worker=1 spawned pid=17559
+I, [2018-09-01T21:59:07.394814 #17559]  INFO -- : worker=1 ready
+I, [2018-09-01T22:00:02.566490 #17552]  INFO -- : reaped #<Process::Status: pid 17556 exit 0> worker=0
+I, [2018-09-01T22:00:02.566993 #17552]  INFO -- : reaped #<Process::Status: pid 17559 exit 0> worker=1
+I, [2018-09-01T22:00:02.567699 #17552]  INFO -- : master complete
+I, [2018-09-01T22:00:10.251083 #17702]  INFO -- : Refreshing Gem list
+I, [2018-09-01T22:00:19.047907 #17702]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T22:00:19.049412 #17702]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T22:00:19.049575 #17702]  INFO -- : worker=0 spawning...
+I, [2018-09-01T22:00:19.078629 #17702]  INFO -- : worker=1 spawning...
+I, [2018-09-01T22:00:19.088456 #17706]  INFO -- : worker=0 spawned pid=17706
+I, [2018-09-01T22:00:19.088738 #17706]  INFO -- : worker=0 ready
+I, [2018-09-01T22:00:19.102055 #17702]  INFO -- : master process ready
+I, [2018-09-01T22:00:19.119914 #17709]  INFO -- : worker=1 spawned pid=17709
+I, [2018-09-01T22:00:19.125264 #17709]  INFO -- : worker=1 ready
+I, [2018-09-01T22:01:36.411566 #17702]  INFO -- : reaped #<Process::Status: pid 17706 exit 0> worker=0
+I, [2018-09-01T22:01:36.518785 #17702]  INFO -- : reaped #<Process::Status: pid 17709 exit 0> worker=1
+I, [2018-09-01T22:01:36.519607 #17702]  INFO -- : master complete
+I, [2018-09-01T22:01:45.063274 #17847]  INFO -- : Refreshing Gem list
+I, [2018-09-01T22:01:53.709545 #17847]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T22:01:53.713692 #17847]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T22:01:53.714174 #17847]  INFO -- : worker=0 spawning...
+I, [2018-09-01T22:01:53.726055 #17847]  INFO -- : worker=1 spawning...
+I, [2018-09-01T22:01:53.734133 #17852]  INFO -- : worker=0 spawned pid=17852
+I, [2018-09-01T22:01:53.734711 #17852]  INFO -- : worker=0 ready
+I, [2018-09-01T22:01:53.737418 #17847]  INFO -- : master process ready
+I, [2018-09-01T22:01:53.757738 #17855]  INFO -- : worker=1 spawned pid=17855
+I, [2018-09-01T22:01:53.758003 #17855]  INFO -- : worker=1 ready
+I, [2018-09-01T22:08:22.428794 #17847]  INFO -- : reaped #<Process::Status: pid 17852 exit 0> worker=0
+I, [2018-09-01T22:08:22.429056 #17847]  INFO -- : reaped #<Process::Status: pid 17855 exit 0> worker=1
+I, [2018-09-01T22:08:22.430669 #17847]  INFO -- : master complete
+I, [2018-09-01T22:08:31.017173 #18033]  INFO -- : Refreshing Gem list
+I, [2018-09-01T22:08:39.175879 #18033]  INFO -- : unlinking existing socket=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock
+I, [2018-09-01T22:08:39.177826 #18033]  INFO -- : listening on addr=/home/ewolensky/code/wedding_backend/wedding_server/shared/sockets/unicorn.sock fd=12
+I, [2018-09-01T22:08:39.178088 #18033]  INFO -- : worker=0 spawning...
+I, [2018-09-01T22:08:39.201705 #18033]  INFO -- : worker=1 spawning...
+I, [2018-09-01T22:08:39.210093 #18037]  INFO -- : worker=0 spawned pid=18037
+I, [2018-09-01T22:08:39.210712 #18037]  INFO -- : worker=0 ready
+I, [2018-09-01T22:08:39.230529 #18033]  INFO -- : master process ready
+I, [2018-09-01T22:08:39.240010 #18040]  INFO -- : worker=1 spawned pid=18040
+I, [2018-09-01T22:08:39.240587 #18040]  INFO -- : worker=1 ready

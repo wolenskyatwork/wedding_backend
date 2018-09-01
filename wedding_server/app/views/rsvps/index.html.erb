@@ -1,0 +1,17 @@
+<table>
+  <tbody>
+    <% @rsvps.each do |rsvp|%>
+      <tr>
+        <td><%= rsvp.first_name %></td>
+        <td><%= rsvp.last_name %></td>
+        <td><%= rsvp.attending %></td>
+        <td><%= rsvp.food_option.name %></td>
+        <td><%= rsvp.dietary_note %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<% if @signed_in %>
+  <%= button_to('Logout', destroy_admin_session_path, :method => :delete) %>
+<% end %>
